@@ -180,8 +180,7 @@ def joke():
 
 # get the personal information about Ai
 def persional():
-    info = str(
-        'I am spinix AI version Beta\nI am an AI assistent,\nI have speed 1 Terahertz memory 1 gega byte \nI am developed by Karthik at 2024')
+    info = str('I am Luna AI version Beta\nI am an AI assistent,\nI have speed 1 Terahertz memory 1 gega byte \nI am developed by Team_DK')
     print(info)
     # it is used to speak the about itself
     speak(info)
